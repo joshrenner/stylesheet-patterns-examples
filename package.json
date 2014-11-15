@@ -1,0 +1,21 @@
+{
+  "name": "stylesheet-patterns-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Josh Renner",
+    "email": "josh@renner.mn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/press22day/stylesheet-patterns.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-file-include": "^0.5.1",
+    "gulp-sass": "^1.1.0",
+    "normalize-css": "^2.3.1"
+  }
+}
